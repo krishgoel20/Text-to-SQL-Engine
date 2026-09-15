@@ -1,4 +1,4 @@
-# Text-to-SQL Engine
+# QueryForge ⚒️
 
 A full-stack AI-powered web application that converts plain English questions/requests into SQL queries and executes them on a live MySQL database in real time.
 
